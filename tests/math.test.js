@@ -7,7 +7,7 @@ test('Subtracao 3 - 2 igual a 1', () => {
 expect(math.subtract(3, 2)).toBe(1); 
 }); 
 
-test('Multiplicacao 2 3 igual a 6', () => { 
+test('Multiplicacao 2 * 3 igual a 6', () => { 
 expect(math.multiply(2, 3)).toBe(6); 
 }); 
 
